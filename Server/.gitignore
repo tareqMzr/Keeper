@@ -1,0 +1,45 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+
+# Dependency Files
+node_modules/
+__pycache__/
+*.py[cod]
+target/
+build/
+
+# Build and Distribution Files
+dist/
+build/
+
+# Logs and Debug Files
+logs/
+*.log
+
+# Temporary Files
+tmp/
+temp/
+
+# Environment and Configuration Files
+.env
+
+# Archive Files
+*.zip
+*.tar.gz
+
+# Backup Files
+*.bak
+*.orig
+*.old
+
+# Specific Large Files
+public/Assets/Videos/NearMe-Tutorial Video - Made with Clipchamp.mp4
